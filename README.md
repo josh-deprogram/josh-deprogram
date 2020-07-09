@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hola. 👋
+
+![Image description](https://deprogram.sfo2.cdn.digitaloceanspaces.com/logoSting_sm.gif)
+
+## checkout my codez
 
 <!--
 **josh-deprogram/josh-deprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
