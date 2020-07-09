@@ -4,7 +4,7 @@
 
 ## checkout my codez
 
-![Image description](https://deprogram.sfo2.digitaloceanspaces.com/github)
+![Image description](https://deprogram.sfo2.digitaloceanspaces.com/github.jpg)
 
 
 
