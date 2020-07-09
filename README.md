@@ -4,7 +4,7 @@
 
 ## checkout my codez
 
-![BUSY YEAR](https://deprogram.sfo2.digitaloceanspaces.com/git.gif)
+![BUSY YEAR](https://deprogram.sfo2.cdn.digitaloceanspaces.com/git.gif)
 
 
 
