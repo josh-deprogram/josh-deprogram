@@ -4,6 +4,21 @@
 
 ## checkout my codez
 
+![Image description](https://deprogram.sfo2.digitaloceanspaces.com/github)
+
+
+
+
+
+
+
+
+
+
+
+
+### 🤠
+
 <!--
 **josh-deprogram/josh-deprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
