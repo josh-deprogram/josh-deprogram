@@ -1,10 +1,10 @@
 ### Hola. 👋
 
-![Image description](https://deprogram.sfo2.cdn.digitaloceanspaces.com/logoSting_sm.gif)
+![deprogram](https://deprogram.sfo2.cdn.digitaloceanspaces.com/logoSting_sm.gif)
 
 ## checkout my codez
 
-![Image description](https://deprogram.sfo2.digitaloceanspaces.com/github.jpg)
+![BUSY YEAR](https://deprogram.sfo2.digitaloceanspaces.com/git.gif)
 
 
 
