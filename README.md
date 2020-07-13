@@ -2,21 +2,6 @@
 
 ![deprogram](https://deprogram.sfo2.cdn.digitaloceanspaces.com/logoSting_sm.gif)
 
-## checkout my codez
-
-![BUSY YEAR](https://deprogram.sfo2.cdn.digitaloceanspaces.com/git.gif)
-
-
-
-
-
-
-
-
-
-
-
-
 ### 🤠
 
 <!--
